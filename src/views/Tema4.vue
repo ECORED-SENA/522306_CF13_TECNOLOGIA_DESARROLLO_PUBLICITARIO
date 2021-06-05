@@ -114,27 +114,27 @@
     p #[b Decisión y acto de compra]
     p.mb-5 Una vez que se han valorado las posibilidades al alcance, se decide qué producto comprar y se hace. En el acto de compra pueden intervenir varias personas (aunque también pueden ser una misma persona). Así, existen diferentes roles:
     TabsA.color-acento-botones.mb-5
-      .tarjeta.color-acento-botones.p-4(titulo="El iniciador")
+      .tarjeta1.color-acento-botones1.p-4(titulo="El iniciador")
         .row
           .col-12
             p.mt-5 #[b El iniciador:] es la persona que sugiere realizar una compra al descubrir que tiene una necesidad no satisfecha. 
             p.mt-5 Por ejemplo: un hijo que quiere comprar el último juego editado de una consola.
-      .tarjeta.color-acento-botones.p-4(titulo="El influenciador")
+      .tarjeta1.color-acento-botones1.p-4(titulo="El influenciador")
         .row
           .col-12
             p.mt-5 #[b El influenciador:] es quien orienta o influye en la decisión de compra. 
             p.mt-5 Por ejemplo: un amigo que ya tiene el juego o el vendedor, en la tienda.
-      .tarjeta.color-acento-botones.p-4(titulo="El decisor")
+      .tarjeta1.color-acento-botones1.p-4(titulo="El decisor")
         .row
           .col-12
             p.mt-5 #[b El decisor:] es la persona que decide sobre uno o todos los aspectos de la compra o resuelve comprar o no el producto. 
             p.mt-5 Por ejemplo: los padres, que deciden comprar.
-      .tarjeta.color-acento-botones.p-4(titulo="El comprador")
+      .tarjeta1.color-acento-botones1.p-4(titulo="El comprador")
         .row
           .col-12
             p.mt-5 #[b El comprador:] es quien compra el producto. 
             p.mt-5 Por ejemplo: los padres acuden a la tienda y compran el juego para su hijo.
-      .tarjeta.color-acento-botones.p-4(titulo="El usuario o consumidor")
+      .tarjeta1.color-acento-botones1.p-4(titulo="El usuario o consumidor")
         .row
           .col-12
             p.mt-5 #[b El usuario o consumidor:] es el que usa o consume el producto. 
