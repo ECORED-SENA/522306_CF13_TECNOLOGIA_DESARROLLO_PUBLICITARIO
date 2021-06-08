@@ -7,13 +7,6 @@
       .titulo-principal__numero
         span 1
       h1 Medición de audiencias
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
-      .row.m-0.align-items-center.justify-content-between
-        .col-lg-4.mb-4.mb-lg-0
-          .h3.mb-0 …“no se puede contemplar la publicación de un anuncio en un medio cualquiera sin un grupo representativo de personas que sean impactados por él”… 
-        .col-lg-8
-          .bloque-texto-a__texto.p-4
-            p En el desarrollo de una campaña publicitaria o una estrategia de comunicación, el factor más importante es la audiencia; #[b no se puede contemplar la publicación de un anuncio en un medio cualquiera sin un grupo representativo de personas que sean impactados por él] y que se motiven, posteriormente, a generar una respuesta positiva en relación con el producto o servicio que se está promocionando; y la publicidad tiene ese principio y esa esencia.
     .tarjeta.color-acento-botones.p-4.p-md-5.mb-5
       .row.justify-content-around.align-items-center
         .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
@@ -21,7 +14,7 @@
         .col-md.col-lg-6
           .titulo-segundo
             h3 Medición de audiencias
-          p.mb-4(style="color:#ff4a69") There is no right answer. The splendor of the mystery is that you don’t understand. Your rapidograph pens are dried up, the x-acto blades in your bag are rusty, and your mind is dull. Stop clicking your mouse, get messy, go back to the basics and make something original. Why are you reading all of this?
+          p.mb-4 En el desarrollo de una campaña publicitaria o una estrategia de comunicación, el factor más importante es la audiencia, por ello lo invitamos a descargar la siguiente infografía que servirá para introducir un poco más el tema.
           a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
