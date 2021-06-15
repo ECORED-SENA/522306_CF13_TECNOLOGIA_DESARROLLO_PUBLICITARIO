@@ -70,7 +70,7 @@
             figure
               img(src='@/assets/curso/img14.svg', style="width: 100px; margin: auto;")
           .col-10
-            p.mb-0 #[b Ratint point:] corresponde al porcentaje de audiencia útil que tiene un medio del total de su audiencia.
+            p.mb-0 #[b Rating point:] corresponde al porcentaje de audiencia útil que tiene un medio del total de su audiencia.
     .separador
     #t_2_3
     .titulo-segundo
@@ -79,30 +79,30 @@
     .row.mb-5
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4
-            img(src='@/assets/curso/img15.svg' alt='AvatarTop')
+          .col-6
+            img(src='@/assets/curso/img15.svg' style="wit")
         .h4.text-center Impactos: 
         p.text-center Se refiere al número de veces que el mensaje publicitario impacta al target.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4
+          .col-6
             img(src='@/assets/curso/img16.svg' alt='AvatarTop')
         .h4.text-center Gross Rating Points (GRP): 
         p.text-center Corresponden a la sumatoria de los porcentajes de la audiencia útil, la fórmula es la siguiente:
         figure.mt-5
-          img(src='@/assets/curso/img18.svg', style="width: 250px; margin: auto;")
+          img(src='@/assets/curso/img19.svg', style="width: 250px; margin: auto;")
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4
+          .col-6
             img(src='@/assets/curso/img17.svg' alt='AvatarTop')
         .h4.text-center Costo Por Mil (CPM): 
         p.text-center El CPM indica la inversión que requiere una campaña para impactar mil veces al mercado objetivo. Este se calcula con la siguiente fórmula:
         figure.mt-4
-          img(src='@/assets/curso/img19.svg', style="width: 250px; margin: auto;")
+          img(src='@/assets/curso/img18.svg', style="width: 250px; margin: auto;")
     .separador
     #t_2_4
     .titulo-segundo
-      h2 2.4 Variables para análisis de medios digitales
+      h2 2.4 Variables para el análisis de medios digitales
     .row.align-items-center
       .col-lg-4
         .header-arrow
@@ -150,7 +150,7 @@
           table.table.table-striped.m-0
             tbody
               tr
-                td.table1 Red/plataforma
+                td.table1 Red / plataforma
                 td.table1 Tipo de campaña
                 td.table1 Costo campaña
                 td.table1 CPC
@@ -189,6 +189,22 @@
                 td.table3
                 td.table3
                 td.table3
+              tr
+                td.table2 Google ads
+                td.table2 Anuncio
+                td.table2
+                td.table2
+                td.table2
+                td.table2
+                td.table2
+              tr
+                td.table3 YouTube
+                td.table3 Texto
+                td.table3
+                td.table3
+                td.table3
+                td.table3
+                td.table3
       div(titulo="Cronograma para radio")
         .row
           .col-12
@@ -211,8 +227,8 @@
                   td.table2
                   td.table2
                 tr
-                  td.table3 Instagram
-                  td.table3 Retargueting
+                  td.table3
+                  td.table3
                   td.table3
                   td.table3
                   td.table3
@@ -335,20 +351,20 @@
     PasosA.color-primario.mb-5(tipo="n")
       .row
         .col-12.mb-5.mb-md-0
-          .h3 Histórico de ventas.
-          p Si la empresa tiene un recorrido importante en el mercado se puede hacer un estimado del mercado objetivo total, a partir del histórico de ventas, esto permite a la empresa saber que tan grande es el mercado y quiénes son los compradores.
+          .h3 Histórico de ventas:
+          p Si la empresa tiene un recorrido importante en el mercado se puede hacer un estimado del mercado objetivo total, a partir del histórico de ventas, esto permite a la empresa saber qué tan grande es el mercado y quiénes son los compradores.
       .row
         .col-12.mb-5.mb-md-0
-          .h3 Utilidades brutas.
+          .h3 Utilidades brutas:
           p En este caso el presupuesto de ventas se plantea con base en un porcentaje sobre las ventas. Es el método más recomendado, puesto que son los clientes los que deberían pagar por la información que reciben acerca del producto.
       .row
         .col-12.mb-5.mb-md-0
-          .h3 Pronóstico.
+          .h3 Pronóstico:
           p Es un método incierto puesto que se destina el presupuesto sobre suposiciones o pronósticos que realiza la empresa estimando un potencial de mercado y de ventas.
       .row
         .col-12
-          .h3 Histórico de campañas.
-          p es otro método recomendado, el cual se basa en lo invertido en campañas realizadas anteriormente por la empresa, esto permite determinar si lo invertido fue lo adecuado o si debe ajustarse el presupuesto para el logro de los objetivos.
+          .h3 Histórico de campañas:
+          p Es otro método recomendado, el cual se basa en lo invertido en campañas realizadas anteriormente por la empresa, esto permite determinar si lo invertido fue lo adecuado o si debe ajustarse el presupuesto para el logro de los objetivos.
       
 </template>
 

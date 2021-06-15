@@ -71,7 +71,7 @@
     .row.align-items-center
       .col-lg-6
         p #[b Evaluación de la información]
-        p A la hora de evaluar la información obtenida se tienen en cuenta una serie de criterios que ayudan a tomar la decisión, y que se saben cuáles son gracias a los estudios realizados sobre el tema. Los criterios que el cliente tiene en cuenta a la hora de comprar son:
+        p A la hora de evaluar la información obtenida se tienen en cuenta una serie de criterios que ayudan a tomar la decisión, y que se sabe cuáles son gracias a los estudios realizados sobre el tema. Los criterios que el cliente tiene en cuenta a la hora de comprar son:
         .row
           .col-6
             ul.lista-ul
@@ -117,28 +117,23 @@
       .tarjeta1.color-acento-botones1.p-4(titulo="El iniciador")
         .row
           .col-12
-            p.mt-5 #[b El iniciador:] es la persona que sugiere realizar una compra al descubrir que tiene una necesidad no satisfecha. 
-            p.mt-5 Por ejemplo: un hijo que quiere comprar el último juego editado de una consola.
+            p.mt-5 #[b El iniciador:] es la persona que sugiere realizar una compra al descubrir que tiene una necesidad no satisfecha. Por ejemplo: un hijo que quiere comprar el último juego editado de una consola.
       .tarjeta1.color-acento-botones1.p-4(titulo="El influenciador")
         .row
           .col-12
-            p.mt-5 #[b El influenciador:] es quien orienta o influye en la decisión de compra. 
-            p.mt-5 Por ejemplo: un amigo que ya tiene el juego o el vendedor, en la tienda.
+            p.mt-5 #[b El influenciador:] es quien orienta o influye en la decisión de compra. Por ejemplo: un amigo que ya tiene el juego o el vendedor, en la tienda.
       .tarjeta1.color-acento-botones1.p-4(titulo="El decisor")
         .row
           .col-12
-            p.mt-5 #[b El decisor:] es la persona que decide sobre uno o todos los aspectos de la compra o resuelve comprar o no el producto. 
-            p.mt-5 Por ejemplo: los padres, que deciden comprar.
+            p.mt-5 #[b El decisor:] es la persona que decide sobre uno o todos los aspectos de la compra o resuelve comprar o no el producto. Por ejemplo: los padres, que deciden comprar.
       .tarjeta1.color-acento-botones1.p-4(titulo="El comprador")
         .row
           .col-12
-            p.mt-5 #[b El comprador:] es quien compra el producto. 
-            p.mt-5 Por ejemplo: los padres acuden a la tienda y compran el juego para su hijo.
+            p.mt-5 #[b El comprador:] es quien compra el producto. Por ejemplo: los padres acuden a la tienda y compran el juego para su hijo.
       .tarjeta1.color-acento-botones1.p-4(titulo="El usuario o consumidor")
         .row
           .col-12
-            p.mt-5 #[b El usuario o consumidor:] es el que usa o consume el producto. 
-            p.mt-5 Por ejemplo: el hijo que quería el juego.
+            p.mt-5 #[b El usuario o consumidor:] es el que usa o consume el producto. Por ejemplo: el hijo que quería el juego.
     hr
     .row.align-items-end.mb-5
       .col-lg-6
@@ -151,10 +146,10 @@
           img(src='@/assets/curso/img49.svg', style="width: 350px; margin: auto;")
     .row.mb-5
       .col-lg-6.d-flex
-        .cajon1.color-primario1.p-4
+        .cajon3.color-primario3.p-4
           .p #[b Activa:] en este caso, además de no volver a realizar la compra, comunica a familiares y amigos su descontento o escribe una reclamación al establecimiento, fabricante y ante organizaciones de defensa del consumidor.
       .col-lg-6.d-flex.mt-4.mt-lg-0
-        .cajon1.color-primario1.p-4
+        .cajon3.color-primario3.p-4
           .p #[b Pasiva:] en este caso, sencillamente no vuelve a realizar la compra.
     p.mb-5 También, se puede diferenciar entre las compras de complejidad baja y alta:
     .row.justify-content-center
@@ -163,13 +158,11 @@
           .col-6.p-4
             figure
               img(src='@/assets/curso/img50.svg', style="width: 90px; margin: auto;")
-            p.mt-5.mb-4.text-center Las compras de complejidad baja son aquellas que realizamos habitualmente y cuyo esfuerzo económico es bajo. 
-            p.text-center Por ejemplo: una barra de pan.
+            p.mt-5.mb-4.text-center Las compras de complejidad baja son aquellas que realizamos habitualmente y cuyo esfuerzo económico es bajo. Por ejemplo: una barra de pan.
           .col-6.p-4(style="border-left: 1px solid #707070;")
             figure
               img(src='@/assets/curso/img51.svg', style="width: 90px; margin: auto;")
-            p.mt-5.mb-4.text-center Las compras de complejidad alta son aquellas que requieren reflexión y cuyo esfuerzo económico es alto. 
-            p.text-center Por ejemplo: un coche.
+            p.mt-5.mb-4.text-center Las compras de complejidad alta son aquellas que requieren reflexión y cuyo esfuerzo económico es alto. Por ejemplo: un coche.
     p.mb-5 En todo caso, la complicación será menor cuando:
     .row.align-items-center.mb-5
       .col-lg-6
@@ -198,22 +191,22 @@
       .col-lg-10
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/img53.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta--azul1
             .p-5
               p #[b Atención:] consiste en presentar el producto de una manera atractiva; es decir, llamar la atención del cliente mediante la presentación y las características del producto. Para ello, se utilizan varias herramientas: el precio, el envase, degustaciones.
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/img54.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta--azul1
             .p-5
               p #[b Interés:] consiste en que el cliente coja un producto y no otro. Para ello, se trata de llamar su atención: que se acerque al lineal, mire el producto, lo coja y, si quiere, observe sus propiedades. En los establecimientos de libre servicio es fundamental que sea el propio producto el que despierte el interés del cliente porque no hay vendedores que puedan mostrártelo.
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/img55.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta--azul1
             .p-5
               p #[b Deseo:] consiste en despertar expectativas y deseo. Así, una vez que el cliente cuenta con información sobre el producto, obtenida gracias al propio producto o bien al asesoramiento del vendedor, este decida que desea comprarlo.
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/img56.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta--azul1
             .p-5
               p #[b Acción:] consiste en actuar; es decir, proceder a la compra del producto, una vez que se ha tomado la decisión.
       

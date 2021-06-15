@@ -7,6 +7,8 @@
       .titulo-principal__numero
         span 1
       h1 Medición de audiencias
+    p En el desarrollo de una campaña publicitaria o una estrategia de comunicación, el factor más importante es la audiencia; no se puede contemplar la publicación de un anuncio en un medio cualquiera sin un grupo representativo de personas que sean impactados por él y que se motiven, posteriormente, a generar una respuesta positiva en relación con el producto o servicio que se está promocionando; y la publicidad tiene ese principio y esa esencia.
+    p.mb-5 Las audiencias tienen varias mediciones, dependiendo del medio que se está analizando; la radio mide sus oyentes en un porcentaje en relación con el total de la población, de la misma forma que lo hace la televisión con sus televidentes, las revistas con sus lectores en función del tiraje (cantidad de ejemplares impresos) y los diferentes lectores que tiene cada ejemplar y, de una forma similar, hacen su conteo de lectores los periódicos. En el caso de internet la situación es más precisa, ya que cada sitio tiene la posibilidad de hacer un conteo de sus visitantes, donde las cuentas en redes sociales pueden medir sus seguidores y los usuarios que interactúan con cada publicación y en total con la cuenta. Los medios de hoy tienen la posibilidad de mediciones más precisas, además de la certeza de llegar a mercados más perfilados para el producto o servicio que se está promocionando.
     .tarjeta.color-acento-botones.p-4.p-md-5.mb-5
       .row.justify-content-around.align-items-center
         .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
@@ -14,7 +16,7 @@
         .col-md.col-lg-6
           .titulo-segundo
             h3 Medición de audiencias
-          p.mb-4 En el desarrollo de una campaña publicitaria o una estrategia de comunicación, el factor más importante es la audiencia, por ello lo invitamos a descargar la siguiente infografía que servirá para introducir un poco más el tema.
+          p.mb-4 Lo invitamos a descargar la siguiente infografía que servirá para introducir un poco más el tema.
           a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
@@ -49,7 +51,7 @@
             | Los datos que genera el EGM son estadísticos y probabilísticos.
           li 
             i.fas.fa-caret-right(style="color: #7D6EB2")
-            | La información que se otorga hace referencia al número de lectores, espectadores, oyentes o usuarios de un medio, canal o cuenta en particular. Esta información indica el número de personas potencialmente sujetas al impacto del mensaje publicitario, indicando la cantidad de personas que potencialmente pueden llegar a ser impactadas por un anuncio (ACIM Colombia, 2020).
+            | La información que se otorga hace referencia al número de lectores, espectadores, oyentes o usuarios de un medio, canal o cuenta en particular. Esta información indica el número de personas potencialmente sujetas al impacto del mensaje publicitario, indicando la cantidad de personas que potencialmente pueden llegar a ser impactadas por un anuncio.
         .row.mb-5
           .col-12.bg-color1
             p.mb-0 Basado en los estudios del ACIM Colombia (2015).
@@ -78,7 +80,7 @@
               img(src='@/assets/curso/img4.svg', style="width: 300px; margin: auto;")
           .col-lg-10
             .h5 Medición de #[i rating] de radio
-            p Para el caso de las audiencias de radio es diferente, aunque en la actualidad se puede determinar cuántas personas están conectadas a una cadena radial vía a internet, sin embargo, aún hay muchos radioescuchas que sintonizan a través de las frecuencias AM y FM. Para estos casos se toman varios datos combinados; uno es el de las encuestas a una muestra representativa de la población y el otro se basa en la retroalimentación que hacen los oyentes por los diferentes medios: teléfono, redes sociales y correo electrónico. Para esto, cada emisora y programa de radio se encarga de realizar la medición de su audiencia, con el fin de vender pauta publicitaria.
+            p Para el caso de las audiencias de radio es diferente, aunque en la actualidad se puede determinar cuántas personas están conectadas a una cadena radial vía internet, sin embargo, aún hay muchos radioescuchas que sintonizan a través de las frecuencias AM y FM. Para estos casos se toman varios datos combinados; uno es el de las encuestas a una muestra representativa de la población y el otro se basa en la retroalimentación que hacen los oyentes por los diferentes medios: teléfono, redes sociales y correo electrónico. Para esto, cada emisora y programa de radio se encarga de realizar la medición de su audiencia, con el fin de vender pauta publicitaria.
         .row.align-items-center.mb-5
           .col-lg-2
             figure
@@ -91,7 +93,7 @@
             figure
               img(src='@/assets/curso/img6.svg', style="width: 300px; margin: auto;")
           .col-lg-10
-            .h5 Medición prensa y revistas digitales
+            .h5 Medición de prensa y revistas digitales
             p Los medios digitales también deben combinar varios datos para determinar su audiencia total, es importante aclarar que las revistas y periódicos digitales en su mayoría cuentan con un sitio web, por lo tanto, el primer dato está relacionado con las visitas a este. Otro dato importante son los suscriptores, ya sea que el medio sea pago o gratuito, siempre debe tener un sistema de suscripción para poder medir audiencias, generar bases de datos y fidelizar a los espectadores. Finalmente, estos medios pueden hacer análisis de audiencias a través de los sistemas de analítica web, sin embargo y a pesar de la precisión de estos sistemas de medición, muchos datos de bots no se pueden discriminar, ya que alteraría las estadísticas.
         
 

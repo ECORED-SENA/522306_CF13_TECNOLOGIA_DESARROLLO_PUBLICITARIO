@@ -38,12 +38,13 @@
               figure
                 img(src='@/assets/curso/img23.svg', style="width: 80px; margin: auto;")
               .h3.mt-4.text-center.text-white Objetivos <br> tácticos
-          .col-lg-9.p-4
+          .col-lg-8.p-4
             ul.lista-ul
               li
                 i.fas.fa-caret-right(style="color: #7D6EB2")
                 |
                 span Combatir esfuerzos promocionales de los competidores o aumentar la cuota de mercado.
+              hr
               li 
                 i.fas.fa-caret-right(style="color: #7D6EB2")
                 |
@@ -54,24 +55,28 @@
               figure
                 img(src='@/assets/curso/img24.svg', style="width: 80px; margin: auto;")
               .h3.mt-4.text-center.text-white Objetivos <br> estratégicos
-          .col-lg-9.p-4
+          .col-lg-8.p-4
             ul.lista-ul
               li
                 i.fas.fa-caret-right(style="color: #26AAB7")
                 |
                 span Estimular a los consumidores a que cambien de la marca rival a la promocionada.
+              hr
               li 
                 i.fas.fa-caret-right(style="color: #26AAB7")
                 |
                 span Aumentar el nivel de consumo los clientes actuales del producto.
+              hr
               li 
                 i.fas.fa-caret-right(style="color: #26AAB7")
                 |
                 span Trasladar los inventarios del producto al distribuidor, minorista o consumidor.
+              hr
               li 
                 i.fas.fa-caret-right(style="color: #26AAB7")
                 |
                 span Incentivar la recompra y la lealtad hacia la marca.
+              hr
               li 
                 i.fas.fa-caret-right(style="color: #26AAB7")
                 |
@@ -88,10 +93,12 @@
                 i.fas.fa-caret-right(style="color: #C1507F")
                 |
                 span Aumentar las ventas.
+              hr
               li 
                 i.fas.fa-caret-right(style="color: #C1507F")
                 |
                 span Incrementar la cuota de mercado.
+              hr
               li 
                 i.fas.fa-caret-right(style="color: #C1507F")
                 |
@@ -363,7 +370,7 @@
     .row.mb-5
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4
+          .col-8
             img(src='@/assets/curso/img27.svg')
         .h4.text-center.mt-4 Promociones al consumidor
         ul.lista-ul.mt-4
@@ -408,7 +415,7 @@
             span Concursos y premios.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4
+          .col-8
             img(src='@/assets/curso/img28.svg')
         .h4.text-center.mt-4 Promociones del distribuidor
         ul.lista-ul.mt-4
@@ -453,7 +460,7 @@
             span Sorteos.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4
+          .col-8
             img(src='@/assets/curso/img29.svg')
         .h4.text-center.mt-4 Promociones del fabricante (Trade Promotions)
         ul.lista-ul.mt-4
@@ -510,7 +517,7 @@
           li 
             i.fas.fa-caret-right(style="color: #7D6EB2")
             |
-            span Prueba, muestras y degustaciones.
+            span Pruebas, muestras y degustaciones.
           hr
           li 
             i.fas.fa-caret-right(style="color: #7D6EB2")
@@ -523,7 +530,7 @@
             span Promociones de ambiente (aniversarios, días o semanas especiales, etc.).
     .row.align-items-center.mb-5
       .col-lg-6
-        p En todos los casos, el destinatario de las promociones de ventas es el consumidor. Ahora bien, como ya se ha adelantado, la existencia de grupos de consumidores con actitudes y comportamientos muy diferentes ante las promociones de ventas, exige que las acciones promocionales sean definidas de acuerdo a las características y preferencias de los segmentos de mercado a las que vayan dirigidas. Así, las distintas técnicas promocionales señaladas, cuya utilización dependerá, entre otros factores, de los objetivos perseguidos en cada momento, serán más o menos eficaces según el tipo de consumidor al que+6 vayan dirigidas.
+        p En todos los casos, el destinatario de las promociones de ventas es el consumidor. Ahora bien, como ya se ha adelantado, la existencia de grupos de consumidores con actitudes y comportamientos muy diferentes ante las promociones de ventas, exige que las acciones promocionales sean definidas de acuerdo a las características y preferencias de los segmentos de mercado a las que vayan dirigidas. Así, las distintas técnicas promocionales señaladas, cuya utilización dependerá, entre otros factores, de los objetivos perseguidos en cada momento, serán más o menos eficaces según el tipo de consumidor al que vayan dirigidas.
         p Tradicionalmente, la caracterización de los consumidores propensos a las promociones se había realizado atendiendo a criterios sociodemográficos; sin embargo, resultaron insuficientes para explicar los diferentes comportamientos ante las promociones de ventas; por esta razón, recientemente se han realizado estudios que relacionan la respuesta ante las promociones de ventas con los hábitos de compra, los hábitos de consumo o rasgos psicográficos.
       .col-lg-6.mt-4.mt-lg-0
         figure
@@ -533,8 +540,8 @@
         figure
           img(src='@/assets/curso/img31.svg', style="width: 450px; margin: auto;")
       .col-lg-6
-        p.mt-4.mt-lg-0 #[b Promociones de ventas según el incentivo ofrecido al consumidor.]
-        p Además en función del público objetivo al que van dirigidas y el criterio de clasificación de las promociones de ventas según el tipo de incentivo promocional ofrecido, es uno de los más empleados. En este sentido, las promociones de ventas se pueden agrupar en diferentes clases atendiendo a las características del incentivo que se ofrece al consumidor, independientemente de que la promoción sea del fabricante, del distribuidor o resultado de una colaboración conjunta entre ambos. Existen cuatro criterios de clasificación de las promociones en función del tipo de incentivo ofrecido al consumidor: en función de la naturaleza del incentivo, en función del horizonte temporal, en función de la certeza del incentivo y, por último, en función del objetivo perseguido.
+        p.mt-4.mt-lg-0 #[b Promociones de ventas según el incentivo ofrecido al consumidor]
+        p Además de en función del público objetivo al que van dirigidas, el criterio de clasificación de las promociones de ventas según el tipo de incentivo promocional ofrecido, es uno de los más empleados. En este sentido, las promociones de ventas se pueden agrupar en diferentes clases atendiendo a las características del incentivo que se ofrece al consumidor, independientemente de que la promoción sea del fabricante, del distribuidor o resultado de una colaboración conjunta entre ambos. Existen cuatro criterios de clasificación de las promociones en función del tipo de incentivo ofrecido al consumidor: en función de la naturaleza del incentivo, en función del horizonte temporal, en función de la certeza del incentivo y, por último, en función del objetivo perseguido.
     .row.align-items-center.mb-4
       .col-1
         figure
@@ -543,8 +550,8 @@
         p.mb-0 #[b Según la naturaleza del incentivo:] se diferencia entre promociones monetarias o promociones en precio y promociones no monetarias.
     .row.align-items-start.justify-content-end
       .col-lg-6
-        p Las promociones monetarias hacen referencia a todas aquellas acciones promocionales que permiten al consumidor adquirir un determinado bien a un precio inferior al habitual, tales como los descuentos inmediatos o diferidos, los vales y cupones de descuento o los reembolsos.
-        p Las promociones no monetarias agrupan todas aquellas acciones cuyo incentivo no consiste en una reducción directa del precio del producto. Así, son promociones no monetarias: los regalos directos o diferidos, las tarjetas de fidelización, la participación en sorteos y concursos, etc. Algunos estudios han puesto de manifiesto que los beneficios percibidos por el consumidor son diferentes según se trate de promociones monetarias o no monetarias y que sus efectos sobre el valor de marca en el largo plazo pueden variar significativamente.
+        p Las #[b promociones monetarias] hacen referencia a todas aquellas acciones promocionales que permiten al consumidor adquirir un determinado bien a un precio inferior al habitual, tales como los descuentos inmediatos o diferidos, los vales y cupones de descuento o los reembolsos.
+        p Las #[b promociones no monetarias] agrupan todas aquellas acciones cuyo incentivo no consiste en una reducción directa del precio del producto. Así, son promociones no monetarias: los regalos directos o diferidos, las tarjetas de fidelización, la participación en sorteos y concursos, etc. Algunos estudios han puesto de manifiesto que los beneficios percibidos por el consumidor son diferentes según se trate de promociones monetarias o no monetarias y que sus efectos sobre el valor de marca en el largo plazo pueden variar significativamente.
       .col-lg-5.mt-4.mt-lg-0
         figure
           img(src='@/assets/curso/img36.svg', style="width: 450px; margin: auto;")
@@ -560,8 +567,8 @@
         figure
           img(src='@/assets/curso/img37.svg', style="width: 300px; margin: auto;")
       .col-lg-6.mt-4.mt-lg-0
-        p En las promociones inmediatas el consumidor recibe el incentivo en el momento en el que realiza la compra sin que se le exija ningún esfuerzo adicional por su parte: descuentos directos, paquetes especiales con mayor cantidad de producto, muestras y regalos directos que acompañan al producto, etc.
-        p En las promociones diferidas el incentivo promocional no es inmediato y requiere una participación por parte del consumidor, al que se le exige cierto esfuerzo, como por ejemplo: recortar y guardar los cupones o vales promocionales, enviar los comprobantes de compra para obtener descuentos o regalos, completar formularios para participar en sorteos o concursos, etc.
+        p En las #[b promociones inmediatas] el consumidor recibe el incentivo en el momento en el que realiza la compra sin que se le exija ningún esfuerzo adicional por su parte: descuentos directos, paquetes especiales con mayor cantidad de producto, muestras y regalos directos que acompañan al producto, etc.
+        p En las #[b promociones diferidas] el incentivo promocional no es inmediato y requiere una participación por parte del consumidor, al que se le exige cierto esfuerzo, como por ejemplo: recortar y guardar los cupones o vales promocionales, enviar los comprobantes de compra para obtener descuentos o regalos, completar formularios para participar en sorteos o concursos, etc.
       .col-12.col-lg-11.mt-0.mt-lg-4
         p En general, el consumidor prefiere los incentivos inmediatos a los diferidos, ya que requieren un menor esfuerzo por su parte. Además, los descuentos diferidos suelen generar una mayor desconfianza y obtienen menor respuesta por parte del consumidor.
     hr.mb-5
@@ -573,8 +580,8 @@
         p.mb-0 #[b Según la certeza del incentivo:] esto es, la seguridad en la obtención del mismo, distinguiéndose entre promociones sistemáticas y promociones selectivas.
     .row.align-items-center.justify-content-end.mb-5
       .col-lg-6
-        p Las promociones sistemáticas ofrecen un incentivo real e idéntico a todos los compradores. Es decir, el comprador tiene absoluta certeza de que, con la compra del producto, recibirá un incentivo determinado.
-        p Por el contrario, en las promociones selectivas el hecho de adquirir el producto no garantiza la obtención del incentivo, como es el caso de los sorteos y los concursos, en los que solo algunos consumidores obtienen el premio o regalo de la promoción.
+        p Las #[b promociones sistemáticas] ofrecen un incentivo real e idéntico a todos los compradores. Es decir, el comprador tiene absoluta certeza de que, con la compra del producto, recibirá un incentivo determinado.
+        p Por el contrario, en las #[b promociones selectivas] el hecho de adquirir el producto no garantiza la obtención del incentivo, como es el caso de los sorteos y los concursos, en los que solo algunos consumidores obtienen el premio o regalo de la promoción.
         .row
           .col-12
             .cajon2.color-primario2.p-4
@@ -594,8 +601,8 @@
         figure
           img(src='@/assets/curso/img39.svg', style="width: 450px; margin: auto;")
       .col-lg-6.mt-4.mt-lg-0
-        p Las promociones informativas incluyen los folletos, los expositores especiales, las degustaciones y, en general, aquellas actividades y herramientas destinadas a informar a los consumidores acerca de los productos.
-        p Las promociones incentivadoras persiguen hacer la compra más atractiva a través de incentivos monetarios o no monetarios.
+        p Las #[b promociones informativas] incluyen los folletos, los expositores especiales, las degustaciones y, en general, aquellas actividades y herramientas destinadas a informar a los consumidores acerca de los productos.
+        p Las #[b promociones incentivadoras] persiguen hacer la compra más atractiva a través de incentivos monetarios o no monetarios.
     .separador
     #t_3_4
     .titulo-segundo
@@ -604,19 +611,19 @@
       .col-lg-10
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/img40.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta--azul1
             .p-4
               .h4 #[i Merchandising] de presentación
               p Se puede definir como la manera de presentar los artículos y el punto de venta de modo que el acto de compra sea lo más agradable y sencillo posible para el cliente y los más rentable posible para el establecimiento. En definitiva, pretende hacer atractivo y dinámico el punto de venta, con el fin de guiar al consumidor e influir en su comportamiento de compra.
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/img41.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta--azul1
             .p-4
               .h4 #[i Merchandising] de seducción
               p Consiste en la denominada “tienda espectáculo” y pasa por la concepción del mobiliario específico, la decoración, la información, etc., con el objetivo de dar un aspecto seductor al lineal y a la tienda para promover la imagen del propio distribuidor.
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/img42.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta--azul1
             .p-4
               .h4 #[i Merchandising] de gestión 
               p Consiste, como su nombre indica, en gestionar el espacio expositivo y el surtido a efectos de maximizar la satisfacción del cliente y la rentabilidad del establecimiento.
