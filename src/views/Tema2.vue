@@ -190,7 +190,7 @@
                 td.table3
                 td.table3
               tr
-                td.table2 Google ads
+                td.table2 Google Ads
                 td.table2 Anuncio
                 td.table2
                 td.table2
