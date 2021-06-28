@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span 5
       h1 Diseño de Material P.O.P.
-    figure.mb-5
+    figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Diseño de material POP
