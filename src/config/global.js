@@ -143,7 +143,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.3',
-            titulo: 'Adhesivo de piso (Vinilo floor graphic)',
+            titulo: 'Adhesivo de piso (vinilo floor graphic)',
             hash: 't_5_3',
           },
         ],
