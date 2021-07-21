@@ -9,7 +9,7 @@
       h1 Diseño de Material P.O.P.
     #t_5_1
     .titulo-segundo
-      h2 5.1 Poster de precios 
+      h2 5.1 Póster de precios 
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/d4gUnNoKQpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
